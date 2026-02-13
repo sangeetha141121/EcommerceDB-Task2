@@ -5,16 +5,6 @@
 ## 📌 Objective
 Practice SQL Data Manipulation Language (DML) operations — `INSERT`, `UPDATE`, and `DELETE` — using an e-commerce dataset, while handling `NULL` values and default constraints.
 
-## 🛠️ Tools Used
-- PostgreSQL (via pgAdmin / DB Fiddle / SQLiteStudio)
-- GitHub for submission
-
-## 📂 Deliverables
-- `task2.sql` → SQL commands for table creation, insertion, update, and deletion
-- `README.md` → Explanation of steps and learnings
-- Screenshots (optional) → Showing query execution results
-
----
 
 ## 🗄️ Table Schema
 ```sql
